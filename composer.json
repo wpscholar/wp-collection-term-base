@@ -1,0 +1,15 @@
+{
+  "name": "wpscholar/wp-collection-term-base",
+  "description": "An abstract class that can be extended to create custom term collections in WordPress.",
+  "type": "library",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "Micah Wood",
+      "email": "micah@wpscholar.com"
+    }
+  ],
+  "require": {
+    "wpscholar/wp-collection-base": "^1.0"
+  }
+}
